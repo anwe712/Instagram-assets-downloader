@@ -1,7 +1,8 @@
 # Instagram Photo Downloader
 
 This is a simple Python script that allows you to download photos from an Instagram profile using the `instaloader` library. You can use it to download all the photos from a public Instagram profile.
-<img align="center" src="https://github.com/anwe712/Instagram-assets-downloader/blob/main/Reference%20(4838%20%C3%97%202419px).jpg" alt="cover image" >
+
+<img align="center" src="https://github.com/anwe712/Instagram-assets-downloader/blob/main/Reference%20(4838%20%C3%97%202419px).gif" alt="cover image" >
 
 ## Requirements
 
